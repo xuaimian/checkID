@@ -12,7 +12,8 @@ class ChangeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        self.view.layer.cornerRadius = 10;
+        
         // Do any additional setup after loading the view.
     }
     
