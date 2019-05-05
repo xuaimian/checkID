@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6F12957F221F85E40059674C /* 身份证.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "身份证.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F12957F221F85E40059674C /* CheckID.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckID.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F129582221F85E40059674C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6F129583221F85E40059674C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		6F129585221F85E40059674C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		6F129576221F85E40059674C = {
 			isa = PBXGroup;
 			children = (
-				6F129581221F85E40059674C /* 身份证 */,
+				6F129581221F85E40059674C /* CheckID */,
 				6F129580221F85E40059674C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		6F129580221F85E40059674C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F12957F221F85E40059674C /* 身份证.app */,
+				6F12957F221F85E40059674C /* CheckID.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6F129581221F85E40059674C /* 身份证 */ = {
+		6F129581221F85E40059674C /* CheckID */ = {
 			isa = PBXGroup;
 			children = (
 				6F129582221F85E40059674C /* AppDelegate.h */,
@@ -68,15 +68,15 @@
 				6F129590221F85E60059674C /* Info.plist */,
 				6F129591221F85E60059674C /* main.m */,
 			);
-			path = "身份证";
+			path = CheckID;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F12957E221F85E40059674C /* 身份证 */ = {
+		6F12957E221F85E40059674C /* CheckID */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F129595221F85E60059674C /* Build configuration list for PBXNativeTarget "身份证" */;
+			buildConfigurationList = 6F129595221F85E60059674C /* Build configuration list for PBXNativeTarget "CheckID" */;
 			buildPhases = (
 				6F12957B221F85E40059674C /* Sources */,
 				6F12957C221F85E40059674C /* Frameworks */,
@@ -86,9 +86,9 @@
 			);
 			dependencies = (
 			);
-			name = "身份证";
+			name = CheckID;
 			productName = "身份证";
-			productReference = 6F12957F221F85E40059674C /* 身份证.app */;
+			productReference = 6F12957F221F85E40059674C /* CheckID.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6F12957A221F85E40059674C /* Build configuration list for PBXProject "身份证" */;
+			buildConfigurationList = 6F12957A221F85E40059674C /* Build configuration list for PBXProject "CheckID" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F12957E221F85E40059674C /* 身份证 */,
+				6F12957E221F85E40059674C /* CheckID */,
 			);
 		};
 /* End PBXProject section */
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F12957A221F85E40059674C /* Build configuration list for PBXProject "身份证" */ = {
+		6F12957A221F85E40059674C /* Build configuration list for PBXProject "CheckID" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F129593221F85E60059674C /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F129595221F85E60059674C /* Build configuration list for PBXNativeTarget "身份证" */ = {
+		6F129595221F85E60059674C /* Build configuration list for PBXNativeTarget "CheckID" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F129596221F85E60059674C /* Debug */,
